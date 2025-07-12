@@ -8,7 +8,7 @@ A comprehensive and modern React application showcasing key development skills i
 
 ## 🌐 Live Demo
 
-🔗 **Deployed URL:** [Click to view the app](#)  
+🔗 **Deployed URL:** [[Click to view the app]](https://react-assignment-app.onrender.com/)(#)  
 
 
 ---
