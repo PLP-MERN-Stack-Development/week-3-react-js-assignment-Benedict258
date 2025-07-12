@@ -198,10 +198,11 @@ Transitions: Subtle hover effects and focus states
 Dark Mode: Persistent and instant theme toggling
 
 📱 Responsive Breakpoints
+Mobile-view.png
 📱 Mobile: < 768px
-
+Tablet-View.png
 💻 Tablet: 768px – 1024px
-
+Desktop-View.png
 🖥️ Desktop: > 1024px
 
 🔧 Scripts
